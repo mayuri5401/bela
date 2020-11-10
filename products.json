@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "title": "FASHIMO Women Casual Shoes Jazzstar14",
+      "price": "₹ 379.00 FREE Delivery on first order",
+      "image": "./images/pic1.png",
+      "category": "trend"
+    },
+    {
+      "title": "Denill Women's & Girls' Fashion Sandal",
+      "price": "₹ 425.00 - ₹ 451.00 FREE Delivery on first order",
+      "image": "./images/pic2.png",
+      "category": "trend"
+    },
+    {
+      "title": "QIPS by HMI 21 ltrs 16 Inch Classic Laptop Backpack with YKK Zippers, Yellow",
+      "price": "₹ 479.00 FREE Delivery on first order.",
+      "image": "./images/pic3.png",
+      "category": "featured"
+    },
+    {
+      "title": "NDEI Faux Leather Jacket for Women's and Girl's (Black)",
+      "price": "₹ 930.00",
+      "image": "./images/pic4.png",
+      "category": "trend"
+    },
+    {
+      "title": "POLESTAR Big 3 Green 38 Lt Green lite Weight Casual/School Backpack Bag",
+      "price": "₹574 ",
+      "image": "./images/pic5.png",
+      "category": "featured"
+    },
+    {
+      "title": "Denill Women's Sneakers Casual Shoes",
+      "price": "₹ 579.00",
+      "image": "./images/pic6.png",
+      "category": "recent"
+    },
+    {
+      "title": "BEET LOOKS Men's Mesh Comfortable & Lightweight Sports Running Shoes",
+      "price": "₹ 579.0",
+      "image": "./images/pic9.png",
+      "category": "trend"
+    },
+    {
+      "title": "Frozen Girl's Ballet Flats",
+      "price": "₹ 494.00 - ₹ 809.00",
+      "image": "./images/pic9.png",
+      "category": "featured"
+    },
+    {
+      "title": "BEET LOOKS Men's Mesh Comfortable & Lightweight Sports Running Shoes",
+      "price": "₹ 579.0",
+      "image": "./images/pic3.png",
+      "category": "trend"
+    },
+    {
+      "title": "FASHIMO Women Casual Shoes Jazzstar14",
+      "price": "₹ 379.00 FREE Delivery on first order",
+      "image": "./images/pic1.png",
+      "category": "jeans shoes"
+    },
+    {
+      "title": "KILLER Polyester 33 L Casual Backpack (Red)",
+      "price": "₹ 599.00",
+      "image": "./images/pic7.png",
+      "category": "special"
+    },
+    {
+      "title": "Killer Louis 38L Large Navy Blue Polyester Laptop Backpack with 3 Compartments",
+      "price": "₹ 1,150.00",
+      "image": "./images/pic10.png",
+      "category": "special"
+    },
+    {
+      "title": "Lancer Men's Sports Running Shoes",
+      "price": "₹ 890.00",
+      "image": "./images/pic11.png",
+      "category": "special"
+    },
+    {
+      "title": "COSMUS Duke 46 cm Grey-Orange Laptop Backpack 29 Ltrs Large School Bag/Travel Backpack",
+      "price": "₹ 890.00",
+      "image": "./images/pic12.png",
+      "category": "recent"
+    },
+    {
+    "title": "KILLER Polyester 33 L Casual Backpack (Red)",
+    "price": "₹ 599.00",
+    "image": "./images/pic7.png",
+    "category": "special"
+    },
+    {
+      "title": "aadi Men's Mesh Running Sport Shoes",
+      "price": "₹ 599.00",
+      "image": "./images/pic13.png",
+      "category": "latest"
+    },
+    {
+      "title": "XTEP Men's blue Mesh Fabric Upper with Advanced Sole Technology Light Weight Running Shoes",
+      "price": "₹ 890.00",
+      "image": "./images/pic14.png",
+      "category": "recent"
+    },
+    {
+      "title": "BEET LOOKS Men's Mesh Comfortable & Lightweight Sports Running Shoes",
+      "price": "₹ 579.0",
+      "image": "./images/pic8.png",
+      "category": "trend"
+    },
+    {
+      "title": "WORLD WEAR FOOTWEAR Men's Multicolor Sports Running Shoes",
+      "price": "₹ 9s90.00",
+      "image": "./images/pic15.png",
+      "category": "latest"
+    },
+    {
+     
+      "title": "Lancer Men's Sports Running Shoes",
+      "price": "₹ 890.00",
+      "image": "./images/pic11.png",
+      "category": "special"
+     
+    }
+  ]
+}
